@@ -33,7 +33,7 @@ Visualizations: Line plots, bar charts, and heatmaps to represent insights.
 
 How to Run the Project:
 Clone this repository:
-  git clone https://github.com/your-username/airline-performance-analysis.git
+  git clone https://github.com/Sachi-35/airline-on-time-analysis.git
 
 
 Install dependencies:
