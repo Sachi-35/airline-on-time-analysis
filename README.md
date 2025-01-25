@@ -14,25 +14,20 @@ Objectives:
 Datasets:
 Flight Data (2019):
   Contains airline names, journey dates, source and destination airports, and other flight details.
-
 Delay Data (2019):
   Monthly flight delay counts by major airlines.
-
 Cancellation Data (2019):
   Flights canceled by each airline monthly.
-
 Passenger Traffic Data (2019):
   Monthly passenger counts for all airlines.
 
 
 Features: 
 Data Cleaning: Handling missing values, removing duplicates, and merging datasets.
-
 Analysis:
   Monthly trends in flight delays and cancellations.
   Passenger traffic distribution.
   Performance metrics for major airlines.
-
 Visualizations: Line plots, bar charts, and heatmaps to represent insights.
 
 
